@@ -1,0 +1,31 @@
+{
+  "name": "invest-api-backend",
+  "version": "0.0.1",
+  "description": "backend for my invest app",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nepo92/investAPP-backend.git"
+  },
+  "keywords": [
+    "invest",
+    "node",
+    "typescript"
+  ],
+  "author": "Eremeev A.E.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nepo92/investAPP-backend/issues"
+  },
+  "homepage": "https://github.com/Nepo92/investAPP-backend#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "nice-grpc": "^2.1.4",
+    "nodemon": "^2.0.22"
+  }
+}
